@@ -1,5 +1,16 @@
 # HỆ THỐNG CHIẾN LƯỢC NỘI DUNG KÊNH CÁ NHÂN THỦY TRANG
 
+## 0. Big Idea
+Hiểu mình trước, để đồng hành cùng con.
+Hành trình hiểu bản thân để trở thành người mẹ và người phụ nữ mà mình mong muốn. Mọi thay đổi bền vững đều bắt đầu từ bên trong.
+
+## BRAND ATTRIBUTES — NHẤN MẠNH LIÊN TỤC
+Learning-driven: Tất cả content có element "mình học từ đâu"
+Authentic & Real: Không khoe, chia sẻ hành trình thực tế (cả thất bại)
+Evidence-based: Không lời khuyên chung chung, tất cả có căn cứ
+Practical: Mỗi content có actionable insight (không chỉ inspire)
+Compassionate: Hiểu sự khó khăn của người mẹ, không phán xét
+
 ## I. BRAND POSITIONING
 
 **Brand Persona:**
@@ -18,121 +29,89 @@
 
 | Pillar                     | Mô tả                                                       | Liên kết với Brand               |
 | -------------------------- | ----------------------------------------------------------- | -------------------------------- |
-| **1. Hành trình làm mẹ**   | Nuôi con bằng sự thấu hiểu, cách tiếp cận học-thực hành     | Tâm huyết, learning-driven       |
-| **2. Vững vàng cảm xúc**   | Hiểu mình để hiểu con, quản lý cảm xúc dựa trên kiến thức   | Sự thấu hiểu + evidence-based    |
-| **3. Phát triển bản thân** | Trưởng thành cùng con, phát triển kỹ năng, mindset          | Hành trình trưởng thành liên tục |
-| **4. Thiết kế cuộc sống**  | Balance mẹ-chuyên gia-phụ nữ, quản lý năng lượng, thời gian | Thiết kế cuộc sống phù hợp       |
+| **1. Hiểu mình**   | Điều này đang nói gì về mình (mom guilt, ovẻthinking, niềm tin giới hạn, nội lực, nhật ký phản tư, tưu nhận thức     | Tìm hiểu bản thân, learning-driven       |
+| **2. Trưởng thành cùng con**   | Khủng hoảng tuổi lên 2 · Đi học · Giao tiếp với con · EQ · Kết nối · Kỷ luật tích cực   | Học hỏi kiến thức làm mẹ    |
+| **3. Thiết kế cuộc sống** | Thói quen · Năng lượng · Quản lý thời gian · Dậy sớm · Productivity · Tài chính · Sức khỏe          | Chủ động kiến tạo, xây dựng cuộc sống |
+| **4. Người phụ nữ đang xây dựng ước mơ**  | Hành trình phát triển công việc · Áp lực· Tham vọng sự nghiệp song song làm mẹ · Bản sắc cá nhân · Ước mơ | Năng lượng, truyển cảm hứng tích cực       |
 
 ---
 
 ## III. 5 TUYẾN NỘI DUNG (CONTENT PILLARS)
 
-### **Tuyến 1: Nhật ký trưởng thành + Học làm mẹ (35%)**
+#### Tuyến 1: Nhật ký trưởng thành + Học làm mẹ (35%)
+Mục tiêu: Kết nối cảm xúc + xây dựng authority (learning-driven)
+Nội dung: Stories từ con dạy tôi cái gì + mình học từ đâu
+Format:
+Facebook: Long-form story (500–800 từ) + bài học rút ra
+TikTok: Short story (30–60 giây) + key lesson
 
-- **Mục tiêu:** Kết nối cảm xúc + xây dựng authority (learning-driven)
-- **Nội dung:** Stories từ con dạy tôi cái gì + mình học từ đâu
-- **Format:** 
-  - Facebook: Long-form story (500-800 từ) + bài học rút ra
-  - TikTok: Short story (30-60 giây) + key lesson
-- **Ví dụ:**
-  - "Hôm nay con mình sợ tiêm, tôi đã xử lý thế nào + lý thuyết từ sách XXX"
-  - "Con dạy tôi cách yêu thương bằng cách XXX, mình học được..."
+Ví dụ:
+"Hôm nay con mình sợ tiêm, tôi đã xử lý thế nào + lý thuyết từ sách XXX"
+"Con dạy tôi cách yêu thương bằng cách XXX, mình học được..."
 
-### **Tuyến 2: Gỡ bỏ niềm tin cũ (15%)**
+#### Tuyến 2: Điều mình đang học lại về... (15%)
+(Đổi frame từ "Điều mình từng tin nhưng giờ thì không" — cùng nội dung, tone đi cùng thay vì đứng trên)
+Mục tiêu: Xây dựng góc nhìn riêng mà không phán xét audience
+Nội dung: Những quan điểm về làm mẹ, hôn nhân, công việc mà mình đang nhìn lại
+Format:
+Facebook: Essay style (500–700 từ)
+TikTok: Hook mạnh + explanation (45–60 giây)
 
-- **Mục tiêu:** Xây dựng góc nhìn riêng, debunk lời khuyên sai
-- **Nội dung:** Những quan điểm cũ về làm mẹ, hôn nhân, công việc mà mình từng tin nhưng đã thay đổi
-- **Format:** 
-  - Facebook: Essay style (500-700 từ)
-  - TikTok: Hook mạnh + explanation (45-60 giây)
-- **Ví dụ:**
-  - "Tôi từng tin phải nuôi con theo 'dân gian', giờ mình biết sai rồi vì..."
-  - "Tại sao tôi không nghe lời mẹ, mà chọn learning-based parenting"
+Ví dụ:
+"Mình đang học lại về việc nuôi con theo 'dân gian'..."
+"Điều mình đang học lại về khái niệm 'mẹ tốt'"
 
-### **Tuyến 3: Những thay đổi nhỏ giúp cuộc sống dễ chịu (20%)**
+#### Tuyến 3: Những thay đổi nhỏ giúp cuộc sống dễ chịu (20%)
+Mục tiêu: Tạo giá trị thực tiễn + strengthen evidence-based mindset
+Nội dung: Tips, thói quen, nguyên tắc sống + "mình dùng vì học từ [sách/khóa/research]"
+Format:
+Facebook: How-to style (400–600 từ) + research reference
+TikTok: Quick tips (15–30 giây) + evidence tag
 
-- **Mục tiêu:** Tạo giá trị thực tiễn + strengthen evidence-based mindset
-- **Nội dung:** Tips, thói quen, nguyên tắc sống + "mình dùng vì học từ [sách/khóa/research]"
-- **Format:**
-  - Facebook: How-to style (400-600 từ) + research reference
-  - TikTok: Quick tips (15-30 giây) + evidence tag
-- **Ví dụ:**
-  - "3 cách giúp con quản lý cảm xúc (dựa trên kiến thức từ sách XXX)"
-  - "Cách mình organize ngày để có thời gian cho bản thân (method từ XXX)"
+Ví dụ
+"3 cách giúp con quản lý cảm xúc (dựa trên kiến thức từ sách XXX)"
+"Cách mình organize ngày để có thời gian cho bản thân (method từ XXX)"
 
-### **Tuyến 4: Cuộc sống, sự nghiệp, phụ nữ (15%)**
+#### Tuyến 4: Cuộc sống, sự nghiệp, phụ nữ (15%)
+Mục tiêu: Mở rộng hình ảnh cá nhân — Pillar 4 trên thực tế
+Nội dung: Hành trình xây dựng sự nghiệp + làm mẹ qua lăng kính tự nhận thức
+Format:
+Facebook: Storytelling (500–800 từ)
+TikTok: Day-in-life, behind-the-scenes, vlog voice-over (30–60 giây)
 
-- **Mục tiêu:** Mở rộng hình ảnh cá nhân ngoài vai trò làm mẹ
-- **Nội dung:** Mẹ + chuyên gia marketing/bảo hiểm + phụ nữ trưởng thành, balance, career, business
-- **Format:**
-  - Facebook: Storytelling (500-800 từ)
-  - TikTok: Day-in-life, behind-the-scenes, vlog voice-over (30-60 giây)
-- **Ví dụ:**
-  - "Làm mẹ, làm marketing, làm người: câu chuyện về balance"
-  - "Bằng cách nào tôi thiết kế sự nghiệp để phục vụ hành trình trưởng thành"
+Ví dụ:
+"Một buổi sáng: meeting lúc 8h, con khóc lúc 7h45 — và điều mình nhận ra"
+"Mình đang xây thương hiệu từ con số 0 và đây là điều mình học về bản thân"
 
-### **Tuyến 5: Quan điểm về thành công & hạnh phúc (15%)**
 
-- **Mục tiêu:** Tăng khả năng lan tỏa, thought leadership
-- **Nội dung:** Triết lý sống, giá trị, vision về hạnh phúc, phụ nữ, sự trưởng thành, gia đình
-- **Format:**
-  - Facebook: Longer essay (800-1000 từ), reflective
-  - TikTok: Rare, hoặc carousel slides (1-2 phút)
-- **Ví dụ:**
-  - "Thành công thực sự là gì với tôi (không phải theo định nghĩa xã hội)"
-  - "Phụ nữ trưởng thành = học hỏi + cho phép mình sai + tiếp tục đi"
+#### Tuyến 5: Quan điểm về thành công & hạnh phúc (15%)
+Mục tiêu: Tăng khả năng lan tỏa, thought leadership
+Nội dung: Triết lý sống, giá trị, vision về hạnh phúc, phụ nữ, sự trưởng thành, gia đình
+Format:
+Facebook: Longer essay (800–1000 từ), reflective
+TikTok: Rare hoặc carousel slides (1–2 phút)
 
+Ví dụ:
+"Thành công thực sự là gì với tôi (không phải theo định nghĩa xã hội)"
+"Phụ nữ trưởng thành = học hỏi + cho phép mình sai + tiếp tục đi"
 ---
 
-## IV. CONTENT MIX HÀNG TUẦN (6-7 BÀI)
+## 5 ANGLE TRIỂN KHAI — NGUỒN VÔ HẠN Ý TƯỞNG
+| Angle  |  Công thức  | Ví dụ
+1. Nhật ký trưởng thành | Sự kiện → Cảm xúc → Quan sát → Bài học | Sáng nay mình lại quát con · Một buổi tối hết pin
+2. Đang học lại về... | Góc nhìn phản biện — đi cùng, không đứng trên | Mình đang học lại về "mẹ tốt" · Điều mình đang nhìn lại về cân bằng
+3. Những thay đổi nhỏ | Tips + trải nghiệm thật | 1 thói quen giúp buổi sáng bớt hỗn loạn
+4. Góc nhìn về cuộc sống| Thought leadership| Thành công là gì sau khi có con
+5. Học được từ đâu| Learning-driven — điểm khác biệt lớn nhất (tăng tỷ trọng)| Điều mình học được từ một cuốn sách · Một nghiên cứu thay đổi cách mình nhìn con
 
-### **GIAI ĐOẠN 1 (Tháng 1-3): Xây Authority - 100% Content Chia Sẻ**
-
-**Tỷ lệ:**
-- Stories (Tuyến 1): 50%
-- Tips (Tuyến 3): 30%
-- Mindset (Tuyến 2 + Tuyến 5): 20%
-- Bán hàng: 0%
-
-**Phân bổ 6-7 bài/tuần:**
-
-| Tuyến         | Số bài | Ghi chú |
-| ------------- | ------ | --------|
-| Tuyến 1 (Stories) | 3-4 bài | "Nhật ký trưởng thành + Học làm mẹ" |
-| Tuyến 3 (Tips) | 2 bài | "Những thay đổi nhỏ giúp cuộc sống dễ chịu" |
-| Tuyến 2 (Mindset) | 1 bài | "Gỡ bỏ niềm tin cũ" |
-| Tuyến 5 (Mindset) | 0-1 bài | "Quan điểm về thành công & hạnh phúc" |
-| **TỔNG** | **6-7 bài** | |
-
-### **GIAI ĐOẠN 2 (Tháng 4-6): Pha Trộn Bán Hàng - 90% Value + 10% Selling**
-
-**Tỷ lệ:**
-- Stories (Tuyến 1): 50%
-- Tips (Tuyến 3): 20%
-- Mindset (Tuyến 2 + Tuyến 5): 20%
-- Bán hàng (lồng ghép khéo léo): 10%
-
-**Phân bổ 6-7 bài/tuần:**
-
-| Tuyến         | Số bài | Ghi chú |
-| ------------- | ------ | --------|
-| Tuyến 1 (Stories) + Sales | 3-4 bài | "Nhật ký + Học làm mẹ" → tự nhiên dẫn tới bảo hiểm/affiliate |
-| Tuyến 3 (Tips) + Sales | 1-2 bài | "Thay đổi nhỏ" → có element bảo vệ tương lai |
-| Tuyến 2 (Mindset) + Sales | 1 bài | "Gỡ bỏ niềm tin cũ" → debunk định kiến về bảo hiểm |
-| Tuyến 5 (Mindset) | 0-1 bài | "Quan điểm" → an tâm là thành công |
-| **TỔNG** | **6-7 bài** | |
-
-### **Gợi ý phân bổ theo ngày:**
-
-- **Thứ 2:** Tuyến 1 (Nhật ký trưởng thành)
-- **Thứ 3:** Tuyến 3 (Tips/thay đổi nhỏ)
-- **Thứ 4:** Tuyến 2 (Gỡ bỏ niềm tin cũ)
-- **Thứ 5:** Tuyến 1 (Nhật ký trưởng thành)
-- **Thứ 6:** Tuyến 4 (Cuộc sống/sự nghiệp)
-- **Thứ 7:** Tuyến 3 (Tips/thay đổi nhỏ)
-- **Chủ nhật:** Tuyến 5 (Quan điểm/triết lý) hoặc Tuyến 1
-
+Nhật ký trưởng thành 35%
+Trưởng thành cùng con 25%
+Học được từ đâu 15% (tăng từ 5%)
+Góc nhìn và niềm tin 15%
+Thiết kế cuộc sống 10% (giảm từ 15%)
 ---
+
+
 
 ## V. PHÂN BIỆT FACEBOOK vs TIKTOK
 
